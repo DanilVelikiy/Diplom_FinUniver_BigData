@@ -2,6 +2,11 @@
 /venv/
 /__pycache__/
 /.ipynb_checkpoints/
+/models/
+/lightning_logs/
 logs.log
 Dockerfile
+df4eda2clean2.csv
+df4eda.csv
+*.csv
 
